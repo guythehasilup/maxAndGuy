@@ -2,7 +2,7 @@
 print(" Hello Enter your  name: Guy")
 
 #2
-print("Tigerrrrrr")
+print("Tiger2")
 
 
 
